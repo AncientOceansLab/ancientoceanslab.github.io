@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ancientoceans.org/data.html</loc>
-    <lastmod>2025-05-13T11:11:48.356Z</lastmod>
+    <loc>https://ancientoceans.org/team/index.html</loc>
+    <lastmod>2025-05-13T11:34:32.552Z</lastmod>
   </url>
   <url>
-    <loc>https://ancientoceans.org/contact.html</loc>
-    <lastmod>2025-05-13T11:11:48.356Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ancientoceans.org/index.html</loc>
-    <lastmod>2025-05-13T11:11:48.356Z</lastmod>
+    <loc>https://ancientoceans.org/contact/index.html</loc>
+    <lastmod>2025-05-13T11:34:32.551Z</lastmod>
   </url>
   <url>
     <loc>https://ancientoceans.org/projects/edith.html</loc>
-    <lastmod>2025-05-13T11:11:48.356Z</lastmod>
+    <lastmod>2025-05-13T11:34:32.551Z</lastmod>
   </url>
   <url>
-    <loc>https://ancientoceans.org/team.html</loc>
-    <lastmod>2025-05-13T11:11:48.356Z</lastmod>
+    <loc>https://ancientoceans.org/data/index.html</loc>
+    <lastmod>2025-05-13T11:34:32.551Z</lastmod>
   </url>
   <url>
-    <loc>https://ancientoceans.org/research.html</loc>
-    <lastmod>2025-05-13T11:11:48.356Z</lastmod>
+    <loc>https://ancientoceans.org/research/index.html</loc>
+    <lastmod>2025-05-13T11:34:32.551Z</lastmod>
   </url>
   <url>
-    <loc>https://ancientoceans.org/news.html</loc>
-    <lastmod>2025-05-13T11:11:48.356Z</lastmod>
+    <loc>https://ancientoceans.org/news/index.html</loc>
+    <lastmod>2025-05-13T11:34:32.551Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ancientoceans.org/index.html</loc>
+    <lastmod>2025-05-13T11:34:32.551Z</lastmod>
   </url>
 </urlset>
