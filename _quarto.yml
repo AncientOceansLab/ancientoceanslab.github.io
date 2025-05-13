@@ -5,11 +5,11 @@ website:
   title: "Ancient Oceans Lab"
   navbar:
     right:
-      - href: research.qmd
+      - href: research/index.qmd
         text: Research
-      - href: team.qmd
+      - href: team/index.qmd
         text: Team
-      - href: data.qmd
+      - href: data/index.qmd
         text: Data
       - text: Projects
         menu:
@@ -19,9 +19,9 @@ website:
         menu:
           - text: Cenozoic Coral Diversity Dynamics
             href: https://edith-nerc.github.io/app/
-      - href: news.qmd
+      - href: news/index.qmd
         text: News
-      - href: contact.qmd
+      - href: contact/index.qmd
         text: Contact
 
 format:

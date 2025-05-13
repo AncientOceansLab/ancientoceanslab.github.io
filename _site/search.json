@@ -1,21 +1,21 @@
 [
   {
-    "objectID": "data.html",
-    "href": "data.html",
+    "objectID": "data/index.html",
+    "href": "data/index.html",
     "title": "Data",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n{r} 1 + 1"
   },
   {
-    "objectID": "news.html",
-    "href": "news.html",
+    "objectID": "news/index.html",
+    "href": "news/index.html",
     "title": "News",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "news.html#this-is-a-test",
-    "href": "news.html#this-is-a-test",
+    "objectID": "news/index.html#this-is-a-test",
+    "href": "news/index.html#this-is-a-test",
     "title": "News",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
@@ -35,44 +35,30 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
+    "objectID": "research/index.html",
+    "href": "research/index.html",
     "title": "Research",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "research.html#this-is-a-test",
-    "href": "research.html#this-is-a-test",
+    "objectID": "research/index.html#this-is-a-test",
+    "href": "research/index.html#this-is-a-test",
     "title": "Research",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
+    "objectID": "contact/index.html",
+    "href": "contact/index.html",
     "title": "Contact",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "contact.html#this-is-a-test",
-    "href": "contact.html#this-is-a-test",
+    "objectID": "contact/index.html#this-is-a-test",
+    "href": "contact/index.html#this-is-a-test",
     "title": "Contact",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Team",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "team.html#this-is-a-test",
-    "href": "team.html#this-is-a-test",
-    "title": "Team",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
@@ -87,6 +73,20 @@
     "objectID": "index.html#this-is-a-test",
     "href": "index.html#this-is-a-test",
     "title": "site",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "team/index.html",
+    "href": "team/index.html",
+    "title": "Team",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "team/index.html#this-is-a-test",
+    "href": "team/index.html#this-is-a-test",
+    "title": "Team",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
