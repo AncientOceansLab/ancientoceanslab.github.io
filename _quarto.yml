@@ -14,10 +14,10 @@ website:
       - text: Projects
         menu:
           - text: EDiTH
-            href: projects/edith.qmd
+            href: projects/edith/index.qmd
       - text: Apps
         menu:
-          - text: Cenozoic Coral Diversity Dynamics
+          - text: Diversity Dynamics
             href: https://edith-nerc.github.io/app/
       - href: news/index.qmd
         text: News
