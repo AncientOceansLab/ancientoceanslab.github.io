@@ -2,8 +2,9 @@ project:
   type: website
 
 website:
-  title: "Ancient Oceans Lab"
+  title: "**A**ncient **O**ceans **L**ab"
   navbar:
+    background: "#16555d"
     right:
       - href: research/index.qmd
         text: Research
@@ -23,6 +24,19 @@ website:
         text: News
       - href: contact/index.qmd
         text: Contact
+      - href: https://github.com/AncientOceansLab
+        icon: github
+      - href: https://bsky.app/profile/ancientoceans.bsky.social
+        text: "{{< iconify fa6-brands bluesky >}}"
+  page-footer: 
+    background: "#16555d"
+    border: "#16555d"
+    left: "&copy; Copyright 2025, Lewis A. Jones" 
+    right:
+      - href: https://github.com/AncientOceansLab
+        icon: github
+      - href: https://bsky.app/profile/ancientoceans.bsky.social
+        text: "{{< iconify fa6-brands bluesky >}}"
 
 format:
   html:
