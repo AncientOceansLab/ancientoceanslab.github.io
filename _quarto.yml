@@ -6,20 +6,26 @@ website:
   navbar:
     background: "#16555d"
     right:
-      - href: research/index.qmd
-        text: Research
-      - href: team/index.qmd
-        text: Team
-      - href: data/index.qmd
-        text: Data
+      - text: Team
+        href: team/index.qmd
+      - text: Research
+        menu:
+          - text: Themes
+            href: research/themes/index.qmd
+          - text: Publications
+            href: research/publications/index.qmd
       - text: Projects
         menu:
           - text: EDiTH
             href: projects/edith/index.qmd
-      - text: Apps
+      - text: Data
+        href: data/index.qmd
+      - text: Software
         menu:
           - text: Diversity Dynamics
             href: https://edith-nerc.github.io/app/
+      - href: outreach/index.qmd
+        text: Outreach
       - href: news/index.qmd
         text: News
       - href: contact/index.qmd
