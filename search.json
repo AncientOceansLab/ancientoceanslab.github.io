@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
+    "objectID": "research/publications/index.html",
+    "href": "research/publications/index.html",
     "title": "Research",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Themes\nThis is a test blah blah blah\n\n\nPublications\nThis is a test blah blah blah"
   },
   {
-    "objectID": "research/index.html#this-is-a-test",
-    "href": "research/index.html#this-is-a-test",
-    "title": "Research",
+    "objectID": "TODO.html",
+    "href": "TODO.html",
+    "title": "To do",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "To do\n\nAdd lab culture"
   },
   {
     "objectID": "news/index.html",
@@ -40,6 +40,13 @@
     "title": "Contact",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "outreach/index.html",
+    "href": "outreach/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Themes\nThis is a test blah blah blah\n\n\nPublications\nThis is a test blah blah blah"
   },
   {
     "objectID": "projects/edith/index.html#project-information",
@@ -89,5 +96,12 @@
     "title": "Team",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "research/themes/index.html",
+    "href": "research/themes/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Themes\nThis is a test blah blah blah\n\n\nPublications\nThis is a test blah blah blah"
   }
 ]
