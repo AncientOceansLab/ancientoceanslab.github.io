@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "research/publications/index.html",
-    "href": "research/publications/index.html",
-    "title": "Research",
-    "section": "",
-    "text": "Themes\nThis is a test blah blah blah\n\n\nPublications\nThis is a test blah blah blah"
-  },
-  {
-    "objectID": "TODO.html",
-    "href": "TODO.html",
-    "title": "To do",
-    "section": "",
-    "text": "To do\n\nAdd lab culture"
-  },
-  {
     "objectID": "news/index.html",
     "href": "news/index.html",
     "title": "News",
@@ -42,46 +28,11 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "outreach/index.html",
-    "href": "outreach/index.html",
-    "title": "Research",
+    "objectID": "TODO.html",
+    "href": "TODO.html",
+    "title": "To do",
     "section": "",
-    "text": "Themes\nThis is a test blah blah blah\n\n\nPublications\nThis is a test blah blah blah"
-  },
-  {
-    "objectID": "projects/edith/index.html#project-information",
-    "href": "projects/edith/index.html#project-information",
-    "title": "Elucidating Diversity Dynamics in Marine Tropical Hotspots",
-    "section": "Project Information",
-    "text": "Project Information\nTitle: Elucidating Diversity Dynamics in Marine Tropical Hotspots (EDiTH)\nFunding Agency: Natural Environment Research Council (Independent Research Fellowship awarded to Lewis A. Jones)\nGrant Reference: UKRI185\nPeriod: 2024–2029\nResearch Team: Lewis A. Jones (PI). Collaborators: Nadia Santodomingo (Natural History Museum, UK), Francesca Bosellini (University of Modena and Reggio Emilia, Italy), Prof. Martin Zuschin (University of Vienna, Austria), Prof. Ann Budd (University of Iowa, USA), Prof. Daniele Silvestro (University of Fribourg, Switzerland), Dr Alexander Farnsworth (University of Bristol, UK), and Dr Sabin Zahirovic (University of Sydney, Australia)"
-  },
-  {
-    "objectID": "projects/edith/index.html#project-overview",
-    "href": "projects/edith/index.html#project-overview",
-    "title": "Elucidating Diversity Dynamics in Marine Tropical Hotspots",
-    "section": "Project Overview",
-    "text": "Project Overview\nLife on Earth is extraordinarily diverse. More than eight million species are recognised today, and yet they represent a tiny fragment of the total number of species that have ever existed. Today, this richness is unevenly distributed across the Earth’s surface with biodiversity hotspots–areas of particularly high species richness–a macroecological phenomenon of the biosphere. Within the marine realm, biodiversity is concentrated in the Indo-Australian Archipelago, where corals and other reef groups achieve their greatest species richness. Although such spatial disparity in biodiversity has been recognised for centuries, we still do not understand the formation and drivers of such biodiversity hotspots, which is critical to forecasting species’ responses to ongoing global change.\nThe fossil record tells us that biodiversity hotspots have waxed and waned through time, with the existence of at least four marine biodiversity hotspots throughout the Cenozoic—the last 66 million years. But what is the evolutionary history of these biodiversity hotspots? And are there any general rules governing the emergence, maintenance, and decline of these macroecological phenomena? In the EDiTH project, we are addressing these questions by integrating the rich fossil record of corals with ecological and Earth System modelling to reconstruct their macroecological and macroevolutionary history.\nThe specific objectives of the project are:\n\nDevelop a comprehensive and standardised dataset of Cenozoic marine biodiversity hotspots\nReconstruct temporal diversity dynamics for Cenozoic marine biodiversity hotspots\nReconstruct diversification rates for Cenozoic marine biodiversity hotspots\nTest the drivers of hotspot diversity dynamics within a spatially explicit process-driven framework\nFill temporal and spatial data gaps in our record of Cenozoic marine biodiversity hotspots\n\nThis project will provide a deeper understanding of the evolutionary dynamics and environmental conditions that have shaped marine ecosystems over millions of years. Such knowledge is crucial for unravelling the history of life on Earth and for predicting future ecological responses to changing climatic conditions."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "site",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#this-is-a-test",
-    "href": "index.html#this-is-a-test",
-    "title": "site",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "data/index.html",
-    "href": "data/index.html",
-    "title": "Data",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n{r} 1 + 1"
+    "text": "To do\n\nAdd lab culture"
   },
   {
     "objectID": "team/index.html",
@@ -98,10 +49,59 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "research/publications/index.html",
+    "href": "research/publications/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Themes\nThis is a test blah blah blah\n\n\nPublications\nThis is a test blah blah blah"
+  },
+  {
     "objectID": "research/themes/index.html",
     "href": "research/themes/index.html",
     "title": "Research",
     "section": "",
     "text": "Themes\nThis is a test blah blah blah\n\n\nPublications\nThis is a test blah blah blah"
+  },
+  {
+    "objectID": "data/index.html",
+    "href": "data/index.html",
+    "title": "Data",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n{r} 1 + 1"
+  },
+  {
+    "objectID": "outreach/index.html",
+    "href": "outreach/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Themes\nThis is a test blah blah blah\n\n\nPublications\nThis is a test blah blah blah"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "site",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#this-is-a-test",
+    "href": "index.html#this-is-a-test",
+    "title": "site",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects/edith/index.html#project-metadata",
+    "href": "projects/edith/index.html#project-metadata",
+    "title": "Elucidating Diversity Dynamics in Marine Tropical Hotspots",
+    "section": "Project Metadata",
+    "text": "Project Metadata\nTitle: Elucidating Diversity Dynamics in Marine Tropical Hotspots (EDiTH)\nFunding Agency: Natural Environment Research Council (Independent Research Fellowship awarded to Lewis A. Jones)\nGrant Reference: UKRI185\nPeriod: 2024–2029\nProject Lead: Dr Lewis A. Jones (University College London)\nProject Partners: Dr Nadia Santodomingo (Natural History Museum, UK), Prof. Francesca Bosellini (University of Modena and Reggio Emilia, Italy), Prof. Martin Zuschin (University of Vienna, Austria), Prof. Ann Budd (University of Iowa, USA), Prof. Daniele Silvestro (University of Fribourg, Switzerland), Dr Alexander Farnsworth (University of Bristol, UK), and Dr Sabin Zahirovic (University of Sydney, Australia)"
+  },
+  {
+    "objectID": "projects/edith/index.html#project-overview",
+    "href": "projects/edith/index.html#project-overview",
+    "title": "Elucidating Diversity Dynamics in Marine Tropical Hotspots",
+    "section": "Project Overview",
+    "text": "Project Overview\nLife on Earth is extraordinarily diverse. More than eight million species are recognised today, and yet they represent a tiny fragment of the total number of species that have ever existed. Today, this richness is unevenly distributed across the Earth’s surface with biodiversity hotspots–areas of particularly high species richness–a macroecological phenomenon of the biosphere. Within the marine realm, biodiversity is concentrated in the Indo-Australian Archipelago, where corals and other reef groups achieve their greatest species richness. Although such spatial disparity in biodiversity has been recognised for centuries, we still do not understand the formation and drivers of such biodiversity hotspots, which is critical to forecasting species’ responses to ongoing global change.\nThe fossil record tells us that biodiversity hotspots have waxed and waned through time, with the existence of at least four marine biodiversity hotspots throughout the Cenozoic—the last 66 million years. But what is the evolutionary history of these biodiversity hotspots? And are there any general rules governing the emergence, maintenance, and decline of these macroecological phenomena? In the EDiTH project, we are addressing these questions by integrating the rich fossil record of corals with ecological and Earth System modelling to reconstruct their macroecological and macroevolutionary history.\nThe specific objectives of the project are:\n\nDevelop a comprehensive and standardised dataset of Cenozoic marine biodiversity hotspots\nReconstruct temporal diversity dynamics for Cenozoic marine biodiversity hotspots\nReconstruct diversification rates for Cenozoic marine biodiversity hotspots\nTest the drivers of hotspot diversity dynamics within a spatially explicit process-driven framework\nFill temporal and spatial data gaps in our record of Cenozoic marine biodiversity hotspots\n\nThis project will provide a deeper understanding of the evolutionary dynamics and environmental conditions that have shaped marine ecosystems over millions of years. Such knowledge is crucial for unravelling the history of life on Earth and for predicting future ecological responses to changing climatic conditions."
   }
 ]

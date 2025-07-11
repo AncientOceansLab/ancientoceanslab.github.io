@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.ancientoceans.org/research/publications/index.html</loc>
-    <lastmod>2025-05-23T10:17:06.202Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ancientoceans.org/TODO.html</loc>
-    <lastmod>2025-05-23T10:17:06.190Z</lastmod>
-  </url>
-  <url>
     <loc>https://www.ancientoceans.org/news/index.html</loc>
-    <lastmod>2025-05-23T10:17:06.201Z</lastmod>
+    <lastmod>2025-07-11T17:12:53.570Z</lastmod>
   </url>
   <url>
     <loc>https://www.ancientoceans.org/contact/index.html</loc>
-    <lastmod>2025-05-23T10:17:06.199Z</lastmod>
+    <lastmod>2025-07-11T17:12:53.568Z</lastmod>
   </url>
   <url>
-    <loc>https://www.ancientoceans.org/outreach/index.html</loc>
-    <lastmod>2025-05-23T10:17:06.201Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ancientoceans.org/projects/edith/index.html</loc>
-    <lastmod>2025-05-23T10:17:06.201Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ancientoceans.org/index.html</loc>
-    <lastmod>2025-05-23T10:17:06.200Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ancientoceans.org/data/index.html</loc>
-    <lastmod>2025-05-23T10:17:06.199Z</lastmod>
+    <loc>https://www.ancientoceans.org/TODO.html</loc>
+    <lastmod>2025-07-11T17:12:53.557Z</lastmod>
   </url>
   <url>
     <loc>https://www.ancientoceans.org/team/index.html</loc>
-    <lastmod>2025-05-23T10:17:06.202Z</lastmod>
+    <lastmod>2025-07-11T17:12:53.572Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ancientoceans.org/research/publications/index.html</loc>
+    <lastmod>2025-07-11T17:12:53.571Z</lastmod>
   </url>
   <url>
     <loc>https://www.ancientoceans.org/research/themes/index.html</loc>
-    <lastmod>2025-05-23T10:17:06.202Z</lastmod>
+    <lastmod>2025-07-11T17:12:53.571Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ancientoceans.org/data/index.html</loc>
+    <lastmod>2025-07-11T17:12:53.568Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ancientoceans.org/outreach/index.html</loc>
+    <lastmod>2025-07-11T17:12:53.570Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ancientoceans.org/index.html</loc>
+    <lastmod>2025-07-11T17:12:53.570Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ancientoceans.org/projects/edith/index.html</loc>
+    <lastmod>2025-07-11T17:12:53.571Z</lastmod>
   </url>
 </urlset>
