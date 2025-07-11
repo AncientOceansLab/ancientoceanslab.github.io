@@ -1,1 +1,14 @@
 /* css styles */
+
+.nav-link {
+  font-size: 1em;
+}
+
+.navbar-brand > img {
+  max-height: 5vw;
+}
+
+.navbar-brand {
+  font-size: 2.5em;
+}
+

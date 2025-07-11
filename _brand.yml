@@ -1,0 +1,38 @@
+meta:
+  name: Ancient Oceans Lab
+  link: https://ancientoceans.org
+  
+logo: 
+  images:
+    logo-image: img/logo.png
+  
+color:
+  palette:
+    light-blue: "#ADD8E6"
+    dark-blue: "#296E85"
+    light-green: "#56B367"
+    dark-green: "#0D725A"
+    light-grey: "#EBEBEB"
+    mid-grey: "#C6C5C4"
+    dark-grey: "#575756"
+    black: "#1D1D1B"
+    white: "#FFFFFF"
+  background: white
+  foreground: dark-grey
+  primary: dark-blue
+  secondary: dark-green
+
+typography:
+  fonts:
+    - family: Atkinson Hyperlegible
+      source: google
+    - family: Space Mono
+      source: google
+  base: 
+    family: Atkinson Hyperlegible
+    weight: 400
+  headings: Atkinson Hyperlegible
+  monospace: Space Mono
+  link:
+    color: dark-blue
+    decoration: underline

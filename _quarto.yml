@@ -2,9 +2,11 @@ project:
   type: website
 
 website:
-  title: "**A**ncient **O**ceans **L**ab"
+  title: "Ancient Oceans"
+  favicon: img/logo.png
+  image: img/logo.png
   navbar:
-    background: "#16555d"
+    logo: img/logo.png
     right:
       - text: Team
         href: team/index.qmd
@@ -35,8 +37,6 @@ website:
       - href: https://bsky.app/profile/ancientoceans.bsky.social
         text: "{{< iconify fa6-brands bluesky >}}"
   page-footer: 
-    background: "#16555d"
-    border: "#16555d"
     left: "&copy; Copyright 2025, Lewis A. Jones" 
     right:
       - href: https://github.com/AncientOceansLab
@@ -47,7 +47,8 @@ website:
 format:
   html:
     theme: 
-     - yeti
+      - cosmo 
+      - brand
     css: styles.css
     toc: true
 
