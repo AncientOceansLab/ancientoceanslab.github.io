@@ -5,8 +5,13 @@ website:
   title: "Ancient Oceans"
   favicon: img/logo.png
   image: img/logo.png
+  search: 
+    location: navbar
+    type: overlay
   navbar:
+    title: "**Ancient Oceans**"
     logo: img/logo.png
+    pinned: true
     right:
       - text: Team
         href: team/index.qmd
@@ -43,6 +48,9 @@ website:
         icon: github
       - href: https://bsky.app/profile/ancientoceans.bsky.social
         text: "{{< iconify fa6-brands bluesky >}}"
+
+language: 
+  search-text-placeholder: Search or jump to...
 
 format:
   html:

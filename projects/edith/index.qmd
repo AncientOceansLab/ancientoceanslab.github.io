@@ -4,14 +4,13 @@ title: "Elucidating Diversity Dynamics in Marine Tropical Hotspots"
 
 ![](edith.png){width="25%"} ![](nerc.jpg){width="25%"}
 
-## Project Metadata
+## Project Information
 
-**Title:** Elucidating Diversity Dynamics in Marine Tropical Hotspots (EDiTH)  
-**Funding Agency:** Natural Environment Research Council (Independent Research Fellowship awarded to Lewis A. Jones)  
-**Grant Reference:** UKRI185  
-**Period:** 2024--2029  
-**Project Lead:** Dr Lewis A. Jones (University College London)  
-**Project Partners:** Dr Nadia Santodomingo (Natural History Museum, UK), Prof. Francesca Bosellini (University of Modena and Reggio Emilia, Italy), Prof. Martin Zuschin (University of Vienna, Austria), Prof. Ann Budd (University of Iowa, USA), Prof. Daniele Silvestro (University of Fribourg, Switzerland), Dr Alexander Farnsworth (University of Bristol, UK), and Dr Sabin Zahirovic (University of Sydney, Australia)
+**Title:** Elucidating Diversity Dynamics in Marine Tropical Hotspots (EDiTH)\
+**Funding Agency:** Natural Environment Research Council (Independent Research Fellowship awarded to Lewis A. Jones)\
+**Grant Reference:** UKRI185\
+**Period:** 2024--2029\
+**Research Team:** Lewis A. Jones (PI). Collaborators: Nadia Santodomingo (Natural History Museum, UK), Francesca Bosellini (University of Modena and Reggio Emilia, Italy), Prof. Martin Zuschin (University of Vienna, Austria), Prof. Ann Budd (University of Iowa, USA), Prof. Daniele Silvestro (University of Fribourg, Switzerland), Dr Alexander Farnsworth (University of Bristol, UK), and Dr Sabin Zahirovic (University of Sydney, Australia)
 
 ## Project Overview
 
