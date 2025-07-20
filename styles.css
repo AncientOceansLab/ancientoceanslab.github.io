@@ -1,7 +1,14 @@
 /* css styles */
 
+.navbar {
+    border: none;
+    border-bottom: 4px solid #2F6E79 !important;
+  }
+
 .nav-link {
   font-size: 1em;
+  font-weight: bold;
+  color: white;
 }
 
 .navbar-brand > img {
@@ -10,5 +17,6 @@
 
 .navbar-brand {
   font-size: 2.5em;
+  color: white;
 }
 
